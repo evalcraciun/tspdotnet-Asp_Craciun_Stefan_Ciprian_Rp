@@ -1,2 +1,1 @@
-# tspdotnet-Asp_Craciun_Stefan_Ciprian_Rp
-sp_Craciun_Stefan_Ciprian_Rp
+# Asp_Craciun_Stefan_Ciprian_Rp
